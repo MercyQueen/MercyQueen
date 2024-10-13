@@ -11,11 +11,14 @@
 </div>
 <h3 align="center">Software developer from India</h3>
 
+<h3 align="left">About Me: </h3>
+
  - 🔭 I’m currently working on [NammaYatri](https://github.com/nammayatri/nammayatri)
 
  - 📫 How to reach me: **mercyqueen71@gmail.com**
 
 <h3 align="left">Languages and Tools: </h3>
+
 
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
