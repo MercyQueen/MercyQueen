@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <p> <img src="https://komarev.com/ghpvc/?username=MercyQueen&label=Profile%20views&color=0e75b6&style=flat" alt="MercyQueen" /> </p>
-     <p> <img src="https://komarev.com/ghpvc/?username=MercyQueen&label=Profile%20views&color=0e75b6&style=flat" alt="MercyQueen" /> </p>
 </div>
   <h1 align="center">Hi 👋, I'm S S Mercy Queen</h1>
 </div>
